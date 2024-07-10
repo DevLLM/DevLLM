@@ -109,7 +109,7 @@
 &nbsp;
 <h2 align="center">💪 Try to grow it up 💪</h2>
 
-<br>
+<!--<br>
 <h2 align="center">🐝 Where to find me 🐝</h2>
 <br>
 
@@ -117,10 +117,10 @@
   <a href="https://minopy.com" target="blank">
     <img width="90" height="90" src="images/◐-white-bg_black.png" alt="Minopy-Portfolio" style="border-radius:20px"/>
   </a>
-  <!-- <a href="mailto:@gmail.com" target="top">
+   <a href="mailto:@gmail.com" target="top">
     <img src="" alt="email" />
-  </a> -->
-</div>
+  </a> 
+</div>-->
 
 <br>
 <!-- 
