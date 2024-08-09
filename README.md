@@ -152,4 +152,4 @@
   <img src="svg/minopy-quotes.svg" width="846" height="150" alt="Minopy-Quotes" align="center"/>
 </a>
 
-08-08-2024
+09-08-2024
