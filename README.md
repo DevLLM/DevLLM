@@ -152,9 +152,11 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank" align="center">
-  <img src="svg/minopy-quotes.svg" width="846" height="150" alt="Minopy-Quotes" align="center"/>
-</a>
+<div align="center">
+  <a href="#" target="_blank" align="center">
+    <img src="svg/minopy-quotes.svg" width="846" height="150" alt="Minopy-Quotes" align="center"/>
+  </a>
+</div>
 <br>
 26-08-2024
 README.md updated by Gitiebot
