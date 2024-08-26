@@ -107,7 +107,11 @@
   </a>
 </div>
 &nbsp;
-<h2 align="center">💪 Try to grow it up 💪</h2>
+<h2 align="center">💪 Visitor Count 💪</h2>
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevLLM/count.svg" />
+</div>
 
 <!--<br>
 <h2 align="center">🐝 Where to find me 🐝</h2>
@@ -151,6 +155,6 @@
 <a href="#" target="_blank" align="center">
   <img src="svg/minopy-quotes.svg" width="846" height="150" alt="Minopy-Quotes" align="center"/>
 </a>
-
+<br>
 26-08-2024
 README.md updated by Gitiebot
