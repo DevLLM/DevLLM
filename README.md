@@ -158,10 +158,3 @@
   </a>
 </div>
 <br>
-&nbsp;
-
-Last update on Fri Dec 20 2024
-
-**12 day before 2025 ⏱** days before new years
-
-This README.md is updated with love, by Gitbot 🩷❤️
